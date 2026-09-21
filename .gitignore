@@ -1,0 +1,20 @@
+.secrets-redes.env
+secrets*
+.env
+.env.*
+.DS_Store
+
+# Bruto e render — fica no disco, não no Git
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.aac
+producao/**/ai/
+producao/**/cortes/
+producao/**/stills/
+producao/**/src/
+producao/**/preview/
+producao/**/audio/

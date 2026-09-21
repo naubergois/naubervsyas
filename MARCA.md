@@ -22,6 +22,7 @@ Não garante view. Garante que o pacote não compete consigo mesmo.
 | Peça | Arquivo | Uso |
 |---|---|---|
 | Ícone | `arte/icone-800.png` | foto de perfil (800×800) |
+| Perfil | `arte/perfil-1080.png` | avatar 1:1 sem canto de app |
 | Banner | `arte/banner-2560x1440.png` | capa do canal |
 | Marca d’água | `arte/marca-dagua-150.png` | canto do vídeo |
 | Wordmark | `arte/wordmark.png` | vinheta / end screen |
@@ -46,6 +47,21 @@ Dois lugares na mesa. Um assunto. O Nauber puxa um lado. O Yas — o robô — p
 Ciência, política, tecnologia, cultura. O que estiver quente na semana. Sem plateia e sem mediador. Só o corte.
 
 Novo episódio quando o tema pedir.
+
+## Redes (colar no perfil)
+
+Handle em tudo: `@naubervsyas`
+
+| Rede | Peça | Texto |
+|---|---|---|
+| Instagram | Bio (150) | Dois lugares na mesa. Um assunto. O Nauber de um lado. O Yas — o robô — do outro. Sem mediador. Só o corte. |
+| TikTok | Bio (80) | Dois lugares na mesa. Sem mediador. Só o corte. |
+| Facebook | Sobre | o bloco “Sobre” acima |
+| Facebook | Capa | `arte/capa-facebook-1640x624.png` |
+
+Site nas três: `https://www.youtube.com/@naubervsyas`
+
+Como abrir cada conta: `REDES-CRIAR.md`
 
 ## Links e tags
 
