@@ -1,6 +1,6 @@
 # Abrir Instagram, Facebook e TikTok
 
-Nenhuma das três deixa criar perfil por API. Precisa do login. Handle checado em 20/set/2026: `@naubervsyas` livre nas três (Instagram “perfil não disponível”, TikTok “não foi possível localizar esta conta”, Facebook sem página pública).
+Nenhuma das três deixa criar perfil por API. Precisa do login. Instagram e TikTok já estão no ar com `@naubervsyas`. Facebook ainda sem página.
 
 Nome em tudo: `Nauber vs Yas`  
 Handle em tudo: `naubervsyas`  
@@ -46,17 +46,23 @@ Novo episódio quando o tema pedir.
 
 ## TikTok
 
-1. Entre em [tiktok.com/signup](https://www.tiktok.com/signup) — Google da mesma conta do YouTube, se der.
-2. Usuário: `naubervsyas`
-3. Apelido: `Nauber vs Yas`
-4. Foto: `arte/icone-800.png`
-5. Bio (80):
+Conta no ar: [tiktok.com/@naubervsyas](https://www.tiktok.com/@naubervsyas).  
+Primeiro corte: [o rótulo vira camisa de time](https://www.tiktok.com/@naubervsyas/video/7688052784670788884).
+
+O que falta no celular (o site não grava):
+
+1. Apelido: `Nauber vs Yas` — o web travou até 28/set.
+2. Foto: `arte/perfil-1080.png` — o site abre captcha.
+3. Bio (80):
 
 ```
 Dois lugares na mesa. Sem mediador. Só o corte.
 ```
 
-Conta **criador**. Sem TikTok Shop no começo.
+4. Trocar a descrição do vídeo (hoje está o nome do arquivo) pela legenda de `producao/chatgpt-voz/final/POSTS.md`.
+5. Primeiro comentário: `O episódio inteiro: youtu.be/M9METL2AEOQ`
+
+Não usar `@nauberbg` nem `@naubergois`. Sem TikTok Shop no começo.
 
 ## Se estiver logado no navegador do Cursor
 
