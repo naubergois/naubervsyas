@@ -12,7 +12,8 @@ Isso ainda não é um plano de agência. É o jeito de usar o que já existe sem
 |---|---|---|
 | YouTube | episódio 1 no ar | https://youtu.be/M9METL2AEOQ |
 | Instagram | conta + foto + post | https://www.instagram.com/naubervsyas/ |
-| TikTok | corte 9:16 pronto | `producao/chatgpt-voz/final/tiktok-melhores-32s.mp4` |
+| TikTok | corte no ar no `@nauberbg` (Gmail já tinha essa conta). Handle `@naubervsyas` ainda livre. | https://www.tiktok.com/@nauberbg |
+| GitHub | marca + plano públicos | https://github.com/naubergois/naubervsyas |
 | Facebook | página ainda não | — |
 
 Handle em tudo: `@naubervsyas`. Canal da Ciência fica de fora.

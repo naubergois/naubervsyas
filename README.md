@@ -3,6 +3,7 @@
 Dois lugares na mesa. Um assunto. O Nauber de um lado. O Yas — o robô — do outro. Sem mediador. Só o corte.
 
 Canal: [youtube.com/@naubervsyas](https://www.youtube.com/@naubervsyas)  
+Repo: [github.com/naubergois/naubervsyas](https://github.com/naubergois/naubervsyas)  
 Primeiro papo: [Direita ou esquerda? O rótulo vira camisa de time](https://youtu.be/M9METL2AEOQ)
 
 ## O que mora aqui
@@ -22,6 +23,7 @@ Vídeo bruto e render ficam no disco. O Git guarda marca, plano e script — nã
 
 - YouTube: [@naubervsyas](https://www.youtube.com/@naubervsyas)
 - Instagram: [@naubervsyas](https://www.instagram.com/naubervsyas/)
-- TikTok / Facebook: mesmo handle, quando a conta existir
+- TikTok pessoal (mesmo Gmail): [@nauberbg](https://www.tiktok.com/@nauberbg) — o handle `@naubervsyas` ainda está livre
+- Facebook: mesma marca, quando a página existir
 
 Senhas das redes não entram neste repositório.
