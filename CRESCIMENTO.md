@@ -1,16 +1,16 @@
 # Crescimento — Nauber vs Yas
 
-O YouTube é a casa. O resto é porta.
+A capa do episódio 2 puxou 16% de clique. Quem entrou ficou um minuto e quarenta. O título prometeu luta. A tela abriu na vinheta e num “não vou falar de eleição”. O feed não perdoa esse descompasso.
 
-Quem para no TikTok ou no Instagram não veio assinar um canal. Veio porque uma frase encostou: o rótulo vira camisa de time. Se o corte segura até o fim, a pessoa manda pra alguém. Se o cartão final aponta o papo inteiro, uma fatia cai no YouTube. Inscrito nasce aí — não no “curte, segue, comenta”.
+O YouTube é a casa. O resto é porta. Inscrito nasce quando o corte segura e o long entrega o que a capa vendeu. Não nasce no “curte, segue, comenta”.
 
-Isso ainda não é um plano de agência. É o jeito de usar o que já existe sem abrir três canais ao mesmo tempo.
+Isso ainda não é um plano de agência. São dois papos no ar, trinta e cinco views e um inscrito. O próximo movimento é fazer a porta funcionar — não gravar o terceiro.
 
 ## A aposta
 
 O formato já é o anúncio. Dois lugares. Um assunto. O Nauber de um lado, o Yas do outro. Sem mediador.
 
-A pessoa que veste camisa de time no feed está cansada de plateia e de “os dois lados, na verdade”. O que ela ainda não viu é o pacote aberto: privatizar, estatizar, evidência, gente no meio. Quem quer o problema de verdade assiste quinze minutos. Quem quer o time, sai no gancho. Os dois servem. Só o segundo não vira inscrito.
+Quem veste camisa de time no feed está cansado de plateia. O que ainda não viu é o pacote aberto: privatizar, estatizar, evidência, gente no meio. Quem quer o problema assiste quinze minutos. Quem quer o time, sai no gancho. Os dois servem. Só o segundo não vira inscrito.
 
 Canal da Ciência fica com aula. Este canal é o papo. Não mistura handle, não mistura capa.
 
@@ -20,30 +20,49 @@ Quem discute política, economia e tecnologia no Brasil e já desconfia do pacot
 
 Não é pra quem quer comício. Não é pra quem quer “IA explica o mundo”. O robô é um lado da mesa, não o dono da verdade.
 
-## O que já está no ar
+## O que o número já disse
 
-| Lugar | Estado | Link |
+Painel do Studio, 22/set/2026. Últimos 28 dias.
+
+| Peça | Views | O que isso conta |
 |---|---|---|
-| YouTube | episódio 1 no ar | https://youtu.be/M9METL2AEOQ |
-| Instagram | conta + foto + post | https://www.instagram.com/naubervsyas/ |
-| TikTok | conta e corte no ar. Descrição ainda é o nome do arquivo — sem link do YouTube. Apelido trava até 28/set. | https://www.tiktok.com/@naubervsyas/video/7688052784670788884 |
-| GitHub | marca + este plano | https://github.com/naubergois/naubervsyas |
-| Facebook | página ainda não | — |
+| Ep. 1 — *Direita ou esquerda?* | 19 | Título de tese. Quase sem porta depois do Short. |
+| Short — *O rótulo vira camisa de time* | 12 | A porta existe. Ainda não carrega o long. |
+| Ep. 2 — *Homem vs robô?* | 8 | 16% de CTR. 1 min 42 s de média num vídeo de 25 min. |
+| Canal | 35 views · 0,6 h · 1 inscrito | Ainda não tem público. Tem embalagem. |
 
-Handle em tudo: `@naubervsyas`. Não usar `@nauberbg` nem `@naubergois`.
+A capa amarelo/aço funciona. O começo do episódio 2 não. Quem clicou em luta viu vinheta, mesa branca e recusa de pauta. A retenção caiu antes do B-roll.
+
+O TikTok do episódio 1 já avisou: baixa qualidade, cara de importado. Não refaz o papo por isso. Recorta o mesmo arquivo, sem vinheta, sem marca d’água de outra rede.
 
 ## Como o inscrito nasce
 
-O FYP e o Reels não olham quantos seguidores você já tem. Olham se a pessoa ficou e se mandou.
+O FYP não olha quantos seguidores você já tem. Olha se a pessoa ficou e se mandou.
 
 1. O short abre no meio da briga, não na vinheta.
 2. A primeira linha da legenda é a frase que o app indexa.
-3. O cartão final — ou o primeiro comentário — aponta o episódio.
+3. O cartão — ou o primeiro comentário — aponta o episódio.
 4. No YouTube, a inscrição pede no final do long, no cartão e na descrição. Nunca no gancho do TikTok.
 
 Quem chega pelo corte e assiste dois minutos do episódio vale mais do que mil views que saem no segundo 2.
 
 Uma pergunta por peça. Uma ação que o algoritmo lê: **enviar** ou **salvar**.
+
+## O que para o polegar
+
+O cérebro no feed decide em menos de três segundos se aquilo é ameaça, time ou resto.
+
+**Identidade antes do argumento.** O gancho fala de camisa, time e pacote — não de “vamos refletir sobre polarização”.
+
+**Erro de previsão.** “A luta homem vs robô tinha piloto.” O olho esperava Terminator. Recebeu o detalhe. Isso segura. Se o corte entrega só xingamento, vira isca e a retenção cai.
+
+**Loop aberto.** O short termina na pergunta, não na tese. Fechar o argumento em 30 s mata o clique.
+
+**Perda, não prêmio.** “Você já levou o pacote” dói um pouco. Sem “isso destrói o Brasil”.
+
+**Manda, não segue.** Pedir follow no gancho do TikTok quebra o loop.
+
+**A capa e o primeiro corte mentem o mesmo recado.** Se o título é luta, os primeiros vinte segundos são luta. A vinheta fica pra quem já ficou.
 
 ## A máquina de um episódio
 
@@ -51,107 +70,128 @@ Um papo quando o tema pedir. Não força calendário vazio.
 
 De cada episódio saem quatro portas, no máximo:
 
-1. **Um corte de 21 a 40s** — o melhor momento, 9:16, texto na tela. TikTok, Reels, Shorts. O mesmo arquivo, legenda nativa em cada rede.
-2. **Um frame de frase** — uma linha que cabe no feed. Instagram e Stories.
-3. **Um post com link** — Facebook, quando a página existir. O YouTube abre o player.
-4. **Um comentário fixo** no vídeo longo, com a pergunta do episódio.
+1. **Um corte de 21 a 40 s** — o melhor momento, 9:16, texto na tela. TikTok, Reels, Shorts. O mesmo arquivo, legenda nativa em cada rede.
+2. **Um frame de frase** — uma linha que cabe no feed.
+3. **Um post com link** — Facebook, quando a página existir.
+4. **Um comentário fixo** no long, com a pergunta do episódio.
 
-Se não tiver corte do papo, não sobe a vinheta no lugar. Foto + link. Pronto.
+Se não tiver corte do papo, não sobe a vinheta no lugar. Foto + link.
 
 Um episódio vira uns três ângulos. Não vira doze. Doze some.
 
-## Esta semana — o episódio 1 ainda não acabou
+O episódio 2 já tem porta no YouTube e no Instagram. Falta o mesmo arquivo no TikTok.
 
-O papo já deu o material. Falta a porta apontar a casa.
+## Os três cortes do episódio 2
 
-**No celular, no TikTok `@naubervsyas`**
+O long já está no ar. Não grava outro pra “ter ritmo”. Tira três portas do que já foi falado.
 
-- Foto: `arte/perfil-1080.png`
-- Bio: `Dois lugares na mesa. Sem mediador. Só o corte.`
-- Descrição do corte (hoje está `tiktok-melhores-32s`):
+**1. A luta tinha piloto** — 21 a 35 s. Abre no contato, no impacto. Texto na tela: *não era Terminator.* Fecha na pergunta: *então o que estava lutando?* Aponta o YouTube. Esse é o corte que sobe primeiro.
 
-```
-O rótulo vira camisa de time. Direita ou esquerda, o pacote vem inteiro.
+**2. Ela diz que não é consciente** — 25 a 40 s. A Yas crava: processa linguagem, não sente. O Nauber segura: e se parecer consciente, não é? Loop aberto. Não fecha com “é só uma ferramenta”.
 
-Manda pra quem veste a camisa sem abrir o pacote.
+**3. Coragem não é ter todas as respostas** — o fecho do papo, 20 a 30 s. Uma frase. Quem manda, manda pra quem precisa encerrar assunto.
 
-Papo inteiro no YouTube.
-youtu.be/M9METL2AEOQ
+O mesmo arquivo 9:16 nas três redes. Legenda nativa. Sem vinheta. Sem marca d’água do YouTube no TikTok.
 
-#polarizacao #politicabrasil #direitaesquerda
-```
+## Os próximos 14 dias
 
-- Primeiro comentário: `O episódio inteiro: youtu.be/M9METL2AEOQ`
-- Apelido `Nauber vs Yas` no dia 28.
+Fecha a porta do que já existe. Não abre o episódio 3.
 
-**Nas outras portas**
+- Três ângulos do episódio 2 estão cortados. O da luta já subiu no Short e no Reel.
+- Short no ar: https://youtube.com/shorts/-fwmuCfxICM — descrição aponta o long.
+- Reel no ar: https://www.instagram.com/reel/Ddl3A-2Orms/ — mesma peça, primeira linha *A luta homem vs robô tinha piloto.*
+- TikTok ainda pede login no site. Foto, bio e apelido `Nauber vs Yas` no celular — apelido no dia 28.
+- Comentário fixo no episódio 2: *A luta tinha piloto. A consciência ficou em aberto. Qual parte você compra sem olhar?*
+- Responde cada comentário dos dois longs. Canal novo trata papo como conversa.
+- Olha retenção do corte. Se morrer antes dos 3 s, recorta o mesmo papo. Não muda de assunto.
 
-- Instagram Reels: o mesmo corte, com a legenda de `producao/chatgpt-voz/final/POSTS.md`.
-- YouTube Shorts: o mesmo corte. Título curto — “O rótulo vira camisa de time”. Cartão no final aponta o long.
-- Comentário fixo no episódio, se ainda não estiver: *Privatizar, estatizar, evidência, gente no meio. Qual parte do pacote você compra sem olhar?*
-- Responder cada comentário do episódio 1. Canal novo trata o primeiro papo como conversa, não como mural.
+## Os próximos 90 dias
 
-O TikTok já avisou que o corte pode ter alcance menor — marcou baixa qualidade e cara de importado. Não refaz o episódio por isso. Se a retenção cair antes dos 3s, corta de novo o mesmo papo, sem vinheta, sem marca d’água de outra rede.
+**Até 30 dias.** As portas do episódio 2 no ar. Compara retenção do corte novo com o Short do episódio 1. Se o da luta segura e o outro não, o gancho de identidade (camisa) perdeu pro gancho de erro (piloto). Repete o que segurou.
 
-## Onde a gente aparece
+**30 a 60.** Terceiro papo. Só se um corte já tiver sido mandado ou salvo de verdade — não se só tiver view. Abre o long nos primeiros quinze segundos com a imagem que a capa vendeu. Vinheta depois, ou some.
 
-**YouTube (busca e recomenda)**  
-Título com a tese, não com o formato. “Direita ou esquerda? O rótulo vira camisa de time” já fala a briga. As três primeiras linhas da descrição: o problema, o corte, o link de inscrição. Tags do assunto, não da marca.
+**60 a 90.** Quarto papo ou recorte do terceiro. Aí dá pra dizer se a porta funciona. Inscrito sozinho mente. Se ninguém abre o long, o cartão está fraco. Se o long segura e o short não, o gancho está mole.
 
-Busca que este papo pode pegar, se a descrição e o título não esconderem a palavra: polarização Brasil, direita ou esquerda, privatizar ou estatizar. Não persegue “podcast debate” — isso é prateleira cheia.
+Meta honesta: um corte que a pessoa manda pra alguém. Monetizar vem depois. O canal tem 0,6 hora de exibição. YPP pede mil inscritos e quatro mil horas — isso ainda não é conversa deste trimestre.
 
-**TikTok e Reels (FYP)**  
-Primeira linha da legenda é a frase. Três hashtags do tema. Sem “parte 2 se seguir”. Sem marca d’água.
-
-**Shorts**  
-O cartão final aponta o long. Quem veio do FYP do YouTube já está na casa — um toque a mais e vira inscrito.
-
-**Comunidade do YouTube**  
-Um post quando sair o papo. Não vira diário.
+Anúncio pago só quando um corte já segura sozinho. Uns poucos reais no vencedor, não em tudo.
 
 ## Pauta que rende corte
 
 Não inventa assunto no vácuo. Puxa do que a pessoa já discute na semana — e que caiba em dois lados sem virar comício.
 
-O que o episódio 1 já ensinou: uma afirmação que dói num lado só (*o pacote vem inteiro*), um número que quebra o time, a frase que o Yas crava e o Nauber não deixa passar, a pergunta que sobra quando tira o rótulo.
+O que os dois papos já ensinaram: uma afirmação que dói num lado (*o pacote vem inteiro*), um detalhe que quebra a história (*tinha piloto*), a frase que o Yas crava e o Nauber não deixa passar, a pergunta que sobra.
 
-Próximos papos, quando o tema esquentar:
+Três prateleiras. Um papo escolhe uma. Não mistura as três no mesmo gancho.
+
+1. **O pacote** — política, economia, rótulo. Episódio 1.
+2. **A máquina** — luta, consciência, “eu não sei”. Episódio 2.
+3. **A imprensa** — o que a foto mostra e o que o documento esconde. Já está no miolo do 2; ainda não foi porta.
+
+Quando o tema esquentar:
 
 - IA no trabalho: substitui ou aumenta. O pacote vem com o medo e com a planilha.
-- Estado na economia: o Pix, o banco, quem cobra a tarifa.
-- Ciência no feed: o estudo virou camisa. O método ficou pra trás.
-- Censura e rede: quem decide o que some, e o que some junto.
+- Pix, banco, quem cobra a tarifa.
+- O estudo virou camisa. O método ficou pra trás.
+- Quem decide o que some na rede, e o que some junto.
 
-Título com a briga visível. Thumbnail amarelo / aço / raio, texto de até seis palavras. Capa em `arte/thumb-modelo-dois-lados.png`.
+Título com a briga visível. Capa amarelo / aço / raio, texto de até cinco palavras que **não** repete o título. Modelo em `arte/thumb-modelo-dois-lados.png`.
 
-## Os primeiros 90 dias
+O long seguinte abre no recado da capa. A vinheta de 5 s não come o clique.
 
-**Até 30 dias.** Fecha a porta do episódio 1. Sobe o Short. Troca a descrição do TikTok. Foto e bio. Olha retenção do corte e clique do Shorts pro long. Se o gancho morrer nos 3s, recorta. Não abre o episódio 2 só pra “manter ritmo”.
+## Onde a gente aparece
 
-**30 a 60.** Segundo papo. Mesma máquina: um corte, um frame, um comentário fixo. Compara retenção com o primeiro. O que segurou, repete o jeito — não o assunto.
+**YouTube (busca e recomenda)**  
+Título com a tese, não com o formato. As três primeiras linhas da descrição: o problema, o corte, o link de inscrição. Tags do assunto, não da marca.
 
-**60 a 90.** Terceiro papo. Aí dá pra dizer se a porta funciona. Inscrito sozinho mente. Se ninguém abre o long, o cartão está fraco ou o corte não promete o resto. Se o long segura e o short não, o gancho está mole.
+Busca que o episódio 2 já pode pegar: homem vs robô, luta teleoperada, IA tem consciência. Não persegue “podcast debate”.
 
-Meta honesta: três papos e um corte que a pessoa manda pra alguém. Monetizar vem depois. Anúncio pago só quando um corte já segura sozinho — uns poucos reais no vencedor, não em tudo.
+**TikTok e Reels**  
+Primeira linha da legenda é a frase. Três hashtags do tema. Sem “parte 2 se seguir”. Sem marca d’água.
+
+**Shorts**  
+O cartão final aponta o long. Quem veio do FYP do YouTube já está na casa.
+
+**Comunidade**  
+Um post quando sair o papo. Não vira diário.
+
+**X**  
+Uma peça, se sobrar fôlego. Pergunta, não aula. Handle `@naubervsyas`.
 
 ## O que olhar
 
-- **Retenção do short** — cai antes dos 3s, o gancho morreu.
+- **Retenção do short** — cai antes dos 3 s, o gancho morreu.
 - **Cliques do Shorts para o long** — ninguém abre o episódio, o cartão ou a promessa falhou.
-- **CTR da capa no YouTube** — abaixo de uns 4% em browse, a capa ou o título não brigam no feed.
-- **Origem do inscrito** — Shorts, busca ou inscrição direta. Isso diz se a porta está funcionando.
+- **CTR da capa** — abaixo de uns 4% em browse, a capa ou o título não brigam. O episódio 2 já passou disso.
+- **Média de visualização do long** — 1 min 42 s num papo de 25 min é o começo errado, não o assunto.
 - **Envio e salvamento no TikTok** — view alto com envio zero é plateia que não carrega o canal.
+- **Origem do inscrito** — Shorts, busca ou inscrição direta.
 
 Se o corte não segura, não aumenta a frequência. Aumenta o corte.
 
+## O que já está no ar
+
+| Lugar | Estado | Link |
+|---|---|---|
+| YouTube | episódio 1 e 2 | https://youtu.be/M9METL2AEOQ · https://youtu.be/lXEw7YeScow |
+| YouTube Short | ep. 1 e o da luta (ep. 2) | https://youtube.com/shorts/LOl43EjCe1M · https://youtube.com/shorts/-fwmuCfxICM |
+| Instagram | conta + corte da luta | https://www.instagram.com/naubervsyas/ · https://www.instagram.com/reel/Ddl3A-2Orms/ |
+| TikTok | um corte, foto e apelido ainda no celular | https://www.tiktok.com/@naubervsyas/video/7688052784670788884 |
+| GitHub | marca + este plano | https://github.com/naubergois/naubervsyas |
+| Facebook | página ainda não | — |
+| X | handle livre | — |
+
+Handle em tudo: `@naubervsyas`. Não usar `@nauberbg` nem `@naubergois`.
+
 ## O que não faz
 
-Não paga anúncio no escuro. Não pede “curte, segue, comenta”. Não usa a vinheta de 5s no lugar do papo. Não mistura Canal da Ciência. Não abre LinkedIn, Kwai e Threads só pra ocupar handle. Não transforma o Yas num mascote de todo post. Não faz doze cortes do mesmo ângulo.
+Não grava o episódio 3 pra encher calendário. Não paga anúncio no escuro. Não pede “curte, segue, comenta”. Não usa a vinheta de 5 s no lugar do papo. Não mistura Canal da Ciência. Não abre LinkedIn, Kwai e Threads só pra ocupar handle. Não transforma o Yas num mascote de todo post. Não faz doze cortes do mesmo ângulo.
 
-Facebook espera a página. Não é bloqueio. É uma porta a menos até ter dono.
+Facebook espera a página. X entra se sobrar fôlego — uma peça, não um segundo canal.
 
 ## Fecho
 
-A casa é o papo de 15 a 20 minutos. As portas são um corte, uma frase, um link. Quem veste a camisa no feed e quer o problema de verdade, assiste o resto e se inscreve.
+A casa é o papo. As portas são um corte, uma frase, um link. A capa já sabe brigar. O começo do vídeo e o corte do episódio 2 ainda não.
 
-O primeiro corte já está no TikTok. Esta semana ele precisa apontar o YouTube. Sem isso, o FYP vira visita — e visita não cresce canal.
+Quem veste a camisa no feed e quer o problema de verdade, assiste o resto e se inscreve. Sem a conta aberta no short, o feed assiste e esquece.

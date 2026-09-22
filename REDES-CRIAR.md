@@ -49,6 +49,8 @@ Novo episódio quando o tema pedir.
 Conta no ar: [tiktok.com/@naubervsyas](https://www.tiktok.com/@naubervsyas).  
 Primeiro corte: [o rótulo vira camisa de time](https://www.tiktok.com/@naubervsyas/video/7688052784670788884).
 
+Legenda e primeiro comentário já no ar (apontam `youtu.be/M9METL2AEOQ`).
+
 O que falta no celular (o site não grava):
 
 1. Apelido: `Nauber vs Yas` — o web travou até 28/set.
@@ -59,10 +61,23 @@ O que falta no celular (o site não grava):
 Dois lugares na mesa. Sem mediador. Só o corte.
 ```
 
-4. Trocar a descrição do vídeo (hoje está o nome do arquivo) pela legenda de `producao/chatgpt-voz/final/POSTS.md`.
-5. Primeiro comentário: `O episódio inteiro: youtu.be/M9METL2AEOQ`
-
 Não usar `@nauberbg` nem `@naubergois`. Sem TikTok Shop no começo.
+
+## X
+
+Handle livre: `naubervsyas` (o perfil ainda não existe).  
+O site do X recusou e-mail: *o registro por e-mail só é permitido nas aplicações.*
+
+No celular, app do X:
+
+1. Criar conta com `naubervsyas@gmail.com` (ou telefone).
+2. Usuário: `naubervsyas`
+3. Nome: `Nauber vs Yas`
+4. Foto: `arte/perfil-1080.png`
+5. Bio e o post: `producao/chatgpt-voz/final/POSTS.md` → seção X
+6. Senha: `.secrets-redes.env` (`X_PASSWORD`) — não cola no chat
+
+Não entrar com Google do Canal da Ciência nem com `@nauberbg`.
 
 ## Se estiver logado no navegador do Cursor
 

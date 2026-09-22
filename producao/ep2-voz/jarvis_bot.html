@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Jarvis · HUD</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #0A0A0C; }
+  body { display: grid; place-items: center; }
+  canvas { width: min(80vmin, 512px); height: min(80vmin, 512px); }
+</style>
+</head>
+<body>
+<canvas id="c" width="512" height="512"></canvas>
+<script>
+const ctx = document.getElementById("c").getContext("2d");
+function easeOut(x){ x=Math.max(0,Math.min(1,x)); return 1-(1-x)**3; }
+function easeIn(x){ x=Math.max(0,Math.min(1,x)); return x**3; }
+function talk(t){
+  t%=4;
+  const peaks=[0.18,0.52,0.88,1.28,1.70,2.12,2.58,3.05,3.48];
+  const widths=[0.28,0.24,0.30,0.26,0.32,0.24,0.28,0.26,0.30];
+  const amps=[0.86,0.58,0.95,0.64,0.90,0.50,0.92,0.60,0.74];
+  let v=0;
+  for(let i=0;i<peaks.length;i++){
+    const u=(t-(peaks[i]-widths[i]*0.22))/widths[i];
+    if(u<0||u>1) continue;
+    const a=amps[i];
+    if(u<0.14) v=Math.max(v,-0.08*easeOut(u/0.14)*a);
+    else if(u<0.42) v=Math.max(v,a*easeOut((u-0.14)/0.28));
+    else if(u<0.62) v=Math.max(v,a);
+    else v=Math.max(v,a*(1-easeIn((u-0.62)/0.38)));
+  }
+  return Math.max(0,v);
+}
+function frame(t){
+  ctx.clearRect(0,0,512,512);
+  const v=talk(t), spin=t*38, cx=256, cy=256;
+  ctx.strokeStyle="rgba(61,255,240,0.85)";
+  ctx.lineWidth=3;
+  for(let i=0;i<12;i++){
+    ctx.beginPath();
+    const a=(spin+i*30+4)*Math.PI/180;
+    ctx.arc(cx,cy,224,a,a+17*Math.PI/180);
+    ctx.stroke();
+  }
+  ctx.fillStyle=`rgba(61,255,240,${0.25+0.35*v})`;
+  ctx.beginPath();
+  ctx.arc(cx,cy,36*(0.82+0.28*v),0,Math.PI*2);
+  ctx.fill();
+  ctx.strokeStyle="rgba(61,255,240,0.9)";
+  ctx.beginPath();
+  ctx.arc(cx,cy,118*(0.97+0.05*v),0,Math.PI*2);
+  ctx.stroke();
+}
+let t0=performance.now();
+function loop(now){ frame((now-t0)/1000); requestAnimationFrame(loop); }
+requestAnimationFrame(loop);
+</script>
+</body>
+</html>

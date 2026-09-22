@@ -1,0 +1,13 @@
+B-roll mudo (domínio público / CC), sobre a voz original do papo.
+
+- U.S. Air Force — treino de boxe “Rumble in the Deid” (domínio público)
+- Robotics Creators Bolivia — robô humanoide (CC)
+- Starship Technologies, Tallinn — robô de entrega (CC)
+- Museu da Comunicação, Berlim — robô em exposição (CC)
+- Braço robótico Arduino; Iris (corpo de bombeiros); manuseio de pacote (CC)
+- SPECT cerebral (artigo em acesso aberto)
+- Still Brasília / igreja / imprensa / VR: Wikimedia Commons
+
+Vinheta: producao/abertura/final/vinheta-5s.mp4
+Roda Jarvis: acende só na fala do Yas (HUD ciano, sem som extra).
+Áudio: o do episódio (AAC 256k, loudnorm leve −16 LUFS). Sem trilha por cima da fala.
