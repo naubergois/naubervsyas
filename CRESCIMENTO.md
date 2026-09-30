@@ -79,31 +79,71 @@ Se não tiver corte do papo, não sobe a vinheta no lugar. Foto + link.
 
 Um episódio vira uns três ângulos. Não vira doze. Doze some.
 
-O episódio 2 já tem porta no YouTube e no Instagram. Falta o mesmo arquivo no TikTok.
+O episódio 2 já tem porta no YouTube, Instagram e TikTok (corte + motion thumb). O episódio 3 está no ar; o corte da pesquisa acadêmica saiu em 16:9 e Short.
 
 ## Os três cortes do episódio 2
 
 O long já está no ar. Não grava outro pra “ter ritmo”. Tira três portas do que já foi falado.
 
-**1. A luta tinha piloto** — 21 a 35 s. Abre no contato, no impacto. Texto na tela: *não era Terminator.* Fecha na pergunta: *então o que estava lutando?* Aponta o YouTube. Esse é o corte que sobe primeiro.
+**1. A luta tinha piloto** — 21 a 35 s. Abre no contato, no impacto. Texto na tela: *não era Terminator.* Fecha na pergunta: *então o que estava lutando?* Aponta o YouTube. Esse é o corte que sobe primeiro. **Já no ar** (corte + motion).
 
-**2. Ela diz que não é consciente** — 25 a 40 s. A Yas crava: processa linguagem, não sente. O Nauber segura: e se parecer consciente, não é? Loop aberto. Não fecha com “é só uma ferramenta”.
+**2. Ela diz que não é consciente** — 25 a 40 s. A Yas crava: processa linguagem, não sente. O Nauber segura: e se parecer consciente, não é? Loop aberto. Não fecha com “é só uma ferramenta”. **Próximo a subir.**
 
-**3. Coragem não é ter todas as respostas** — o fecho do papo, 20 a 30 s. Uma frase. Quem manda, manda pra quem precisa encerrar assunto.
+**3. Coragem não é ter todas as respostas** — o fecho do papo, 20 a 30 s. Uma frase. Quem manda, manda pra quem precisa encerrar assunto. **Depois da consciência.**
 
 O mesmo arquivo 9:16 nas três redes. Legenda nativa. Sem vinheta. Sem marca d’água do YouTube no TikTok.
 
-## Os próximos 14 dias
+## Plano de ação (a partir de 23/set/2026)
 
-Fecha a porta do que já existe. Não abre o episódio 3.
+Uma aposta: **porta + abertura**. Ep. 3 só depois.
 
-- Três ângulos do episódio 2 estão cortados. O da luta já subiu no Short e no Reel.
-- Short no ar: https://youtube.com/shorts/-fwmuCfxICM — descrição aponta o long.
-- Reel no ar: https://www.instagram.com/reel/Ddl3A-2Orms/ — mesma peça, primeira linha *A luta homem vs robô tinha piloto.*
-- TikTok ainda pede login no site. Foto, bio e apelido `Nauber vs Yas` no celular — apelido no dia 28.
-- Comentário fixo no episódio 2: *A luta tinha piloto. A consciência ficou em aberto. Qual parte você compra sem olhar?*
-- Responde cada comentário dos dois longs. Canal novo trata papo como conversa.
-- Olha retenção do corte. Se morrer antes dos 3 s, recorta o mesmo papo. Não muda de assunto.
+### Bloco A — esta semana (23–29/set)
+
+| # | Ação | Feito quando |
+|---|---|---|
+| A1 | Reabrir ep. 2 nos primeiros ~15 s com a imagem da capa (luta/piloto). Vinheta depois ou fora. | **Feito** — master `ep2-long-abertura-capa.mp4` (REK+Unitree) · no ar https://youtu.be/abwWL-Iv7Vw · longs antigos `tBKdyXqxKVc` + `XNCC-TroJLs` **Não listado** |
+| A2 | Subir **consciência** e **coragem** 9:16 nas três redes | YT + TikTok `@naubervsyas` no ar. Consciência https://www.tiktok.com/@naubervsyas/video/7689462777068490005 · coragem https://www.tiktok.com/@naubervsyas/video/7689463187766381844 · ciência https://www.tiktok.com/@naubervsyas/video/7689463439516880148. Instagram ainda pede celular no checkpoint |
+| A3 | Cartão + comentário fixo short→long; comentário fixo nos longs; responder comentários | **Feito 24/set** — descrições + relacionado dos Shorts 455/227 → `abwWL-Iv7Vw`. **25/set:** relacionado também em consciência `AqFu2htdodQ` e coragem `4sHJze_k9ZQ` → ep. 2; ciência `sdAQ4ZI_0Ww` → ep. 3. Liveful `kuicCboplmw` **Não listado**. Trailer `6RlKDb5lxWg` na capa |
+| A4 | Ask Studio prompts 1, 2, 7, 8 → colar bloco 8 no chat | **Feito 25/set** — 1, 2 e 7 em `producao/ep2-voz/final/ask-studio-respostas.txt`. Ponte Short → long: **0** views diretas. Página do canal: 28 views nos longs / 68 impressões (CTR 19%) |
+| A5 | Editar legenda do TikTok motion (hoje é nome do arquivo) | Chrome 25/set: Studio só Fixar/Baixar/Excluir. Comentário novo aponta `abwWL-Iv7Vw`. Descrição ainda é o filename — app: https://www.tiktok.com/@naubervsyas/video/7688689328075181313 |
+
+**Ganchos a testar** (um por peça):
+
+1. *Não era Terminator. Tinha piloto.* (já no ar — medir)
+2. *COMPROU O PACOTE INTEIRO?*
+3. *NÃO VISTA A CAMISA SEM OLHAR O MÉTODO*
+
+### Bloco B — semana seguinte (30/set–6/out)
+
+Pacote e implementação (29/set, sem voz): `producao/studio-cama/2026-09-29.md`. Playlists no ar. Descrições salvas. Enquete ainda no celular/Posts.
+
+| # | Ação | Feito quando |
+|---|---|---|
+| B1 | Ler retenção 3 s e Short→long (Ask Studio) | Três linhas de número |
+| B2 | Se cair antes de 3 s: recorta o mesmo papo | Novo 9:16 |
+| B3 | Comparar motion thumb vs. corte-luta | Qual reteve / foi mandado |
+| B4 | Caixa de comentários zerada | Todos respondidos |
+| B5 | Três playlists na capa (Os papos / A máquina / O método) | **Feito 29/set** — [Os papos](https://www.youtube.com/playlist?list=PLV0eRnlwaXNg) · [A máquina](https://www.youtube.com/playlist?list=PLfApCtmbsBSI) · [O método](https://www.youtube.com/playlist?list=PLPHqmUpiZ9EE). Seção Os papos na guia Início |
+| B6 | Enquete Comunidade: o que tava lutando? | Post no ar |
+
+### Bloco C — só se a porta segura
+
+| # | Ação | Critério |
+|---|---|---|
+| C1 | Episódio 3 | Corte com envio/salvo **ou** Short→long repetido; cold open do ep. 2 corrigido |
+| C2 | Porta “imprensa” (foto vs. documento) | Tema da semana pedindo |
+| C3 | Anúncio pago | Um corte já segura sozinho |
+| C4 | X / Facebook | Fôlego; uma peça |
+
+### Critérios de “porta funciona”
+
+Short não morre nos 3 s e alguém manda/salva. Long: média sobe acima de ~1:42 e o começo parece a capa. Ponte: Short→long > 0 de forma repetida.
+
+Diagnóstico e sinais: `producao/crescimento-attract/`.
+
+## Os próximos 14 dias (resumo)
+
+Fecha a porta do que já existe. Não abre o episódio 3. Bloco A acima é a fila.
 
 ## Os próximos 90 dias
 
@@ -174,10 +214,10 @@ Se o corte não segura, não aumenta a frequência. Aumenta o corte.
 
 | Lugar | Estado | Link |
 |---|---|---|
-| YouTube | episódio 1 e 2 | https://youtu.be/M9METL2AEOQ · https://youtu.be/lXEw7YeScow |
-| YouTube Short | ep. 1 e o da luta (ep. 2) | https://youtube.com/shorts/LOl43EjCe1M · https://youtube.com/shorts/-fwmuCfxICM |
-| Instagram | conta + corte da luta | https://www.instagram.com/naubervsyas/ · https://www.instagram.com/reel/Ddl3A-2Orms/ |
-| TikTok | um corte, foto e apelido ainda no celular | https://www.tiktok.com/@naubervsyas/video/7688052784670788884 |
+| YouTube | episódio 1, 2 e 3 | https://youtu.be/M9METL2AEOQ · https://youtu.be/abwWL-Iv7Vw · https://youtu.be/8RqtpJ5CnoM |
+| YouTube Short | ep. 1, luta, motion, ciência | https://youtube.com/shorts/LOl43EjCe1M · https://youtube.com/shorts/-fwmuCfxICM · https://youtube.com/shorts/GH0iaMuVCGM · https://youtube.com/shorts/sdAQ4ZI_0Ww |
+| Instagram | luta + motion; ciência no celular | https://www.instagram.com/reel/Ddl3A-2Orms/ · https://www.instagram.com/reel/DdnQnJgOCZD/ |
+| TikTok | luta + motion + consciência + coragem + ciência (`@naubervsyas`) | https://www.tiktok.com/@naubervsyas/video/7688052784670788884 · https://www.tiktok.com/@naubervsyas/video/7688689328075181313 · https://www.tiktok.com/@naubervsyas/video/7689462777068490005 · https://www.tiktok.com/@naubervsyas/video/7689463187766381844 · https://www.tiktok.com/@naubervsyas/video/7689463439516880148 |
 | GitHub | marca + este plano | https://github.com/naubergois/naubervsyas |
 | Facebook | página ainda não | — |
 | X | handle livre | — |
@@ -190,8 +230,12 @@ Não grava o episódio 3 pra encher calendário. Não paga anúncio no escuro. N
 
 Facebook espera a página. X entra se sobrar fôlego — uma peça, não um segundo canal.
 
+## Skills no Cursor
+
+O agente que escolhe rede, keyword e fila lê `producao/canal-loop/` e a skill `.cursor/skills/canal-decisao-seo/`. Pacote instalado (Nova, Attract, social-media, SEO, Studio): [CRESCIMENTO-SKILLS.md](./CRESCIMENTO-SKILLS.md).
+
 ## Fecho
 
-A casa é o papo. As portas são um corte, uma frase, um link. A capa já sabe brigar. O começo do vídeo e o corte do episódio 2 ainda não.
+A casa é o papo. As portas são um corte, uma frase, um link. A capa já sabe brigar. Os dois cortes do piloto apontam o long certo, o comentário está fixo e o trailer pede inscrição na capa. Falta consciência/coragem/ciência no celular — e o long novo ainda não segurou: 3 views, 5 s de média.
 
 Quem veste a camisa no feed e quer o problema de verdade, assiste o resto e se inscreve. Sem a conta aberta no short, o feed assiste e esquece.

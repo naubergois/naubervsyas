@@ -1,0 +1,16 @@
+B-roll mudo (editorial / CC / domínio público), sobre a voz original do papo.
+
+Mapa fala → imagem (tempos do bruto, audio/full.srt):
+
+- DoorDash libera IA na seleção: clipe oficial DoorDash Dot (produto da marca).
+- Anthropic quer raciocínio cru: "Building Anthropic" (fundadores, YouTube oficial).
+- Miguel Nicolelis: entrevista Terra sobre impacto da IA.
+- AlphaGo lance 37 (2016): Lee Sedol vs AlphaGo, Google DeepMind Challenge Match.
+- Pincel / atelier: Renoir pintando em casa (filme 1915, domínio público).
+- PEC fim da escala 6x1 (CCJ, 2 set 2026): SBT Brasil + imagens TV Senado.
+- Sociedade / Pew / desigualdade: still/imprensa (Wikimedia, ep. 2).
+- Ciência / reprodutibilidade: SPECT cerebral (artigo em acesso aberto).
+
+Vinheta: producao/abertura/final/vinheta-5s.mp4 — Ready Aim Fire, Kevin MacLeod.
+Áudio: captura Filmora 320k, highpass 80 Hz + loudnorm −16 LUFS, AAC 256k/48k.
+Sem trilha por cima da fala. Sem áudio do B-roll.

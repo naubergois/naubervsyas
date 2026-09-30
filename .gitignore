@@ -18,3 +18,9 @@ producao/**/stills/
 producao/**/src/
 producao/**/preview/
 producao/**/audio/
+
+.tmp-skills-staging/
+testing/
+__pycache__/
+*.pyc
+.venv/

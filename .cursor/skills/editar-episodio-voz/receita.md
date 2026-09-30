@@ -60,7 +60,7 @@ Disco: overlay precisa ~2 GB livres além do master. Apaga `epN-jarvis-tmp.mp4` 
 
 ## Capa (PIL)
 
-Gerador de imagem + `arte/thumb-modelo-dois-lados.png` de referência. Depois:
+Capa criativa: `.cursor/rules/capas-criativas.mdc`. Gera a cena do papo (não o split dois lados). Depois:
 
 ```python
 d.rectangle((0, 0, 1280, 136), fill=(10, 10, 12, 255))  # tapa letra do gerador

@@ -30,7 +30,7 @@ Este Mac tem 16 GB. **Um encode por vez.** `h264_videotoolbox` no master. `libx2
 ```
 - [ ] 1. Probe do bruto + pasta
 - [ ] 2. Transcrever (whisper-cli, CPU)
-- [ ] 3. B-roll mudo por assunto (domínio público)
+- [ ] 3. B-roll mudo por assunto — se a fala **nomeia** evento/produto/pessoa, usar skill `footage-real-assunto` (não stock genérico)
 - [ ] 4. Preview 90s (crop + overlay + webcam + áudio)
 - [ ] 5. Master + vinheta
 - [ ] 6. Roda Jarvis só na fala da Yas (preview, depois full)
@@ -59,7 +59,9 @@ whisper-cli -m ~/.cache/whisper/ggml-base.bin -l pt -ng -osrt -of audio/full aud
 
 ## 3. B-roll
 
-Silencioso. Assunto da fala, não enfeite. Wikimedia / governo / CC. Sem Unitree oficial, sem anime, sem clipe com cara na entrevista quando o papo é luta.
+Silencioso. Assunto da fala, não enfeite.
+
+**Footage verídico primeiro:** se o SRT nomeia evento, luta, demo, marca ou pessoa concreta, seguir `footage-real-assunto` (buscar o clipe real, mapear TIMELINE, provar com frame). Wikimedia / governo / CC só para conceito abstrato ou still documental. Sem anime. Sem clipe de entrevista quando o papo é a luta em si.
 
 Normaliza cada fonte:
 
@@ -101,7 +103,9 @@ Alpha: extrai o alpha do loop e **multiplica** pelo gate. Sem isso a roda vira u
 
 ## 7. Capa
 
-1280×720 JPG < 2 MB. Charge, não foto. Amarelo `#FFE14A` na esquerda (Nauber, jaleco, óculos grosso). Aço `#0A0A0C` na direita (Yas, crânio cromado, olho `#E10600`). Raio ciano no meio. Texto ≤ 5 palavras, creme `#F7F1E3`, **não** repete o título. Barra preta **sólida** em cima — o gerador grava letra escondida. Referência: `arte/thumb-modelo-dois-lados.png`.
+Regra do repo: `.cursor/rules/capas-criativas.mdc`. Peça nova por vídeo. O `arte/thumb-modelo-dois-lados.png` é paleta, não layout.
+
+1280×720 JPG < 2 MB. Charge, não foto. Três conceitos, arquétipos diferentes; um oficial. Texto ≤ 5 palavras, creme `#F7F1E3`, **não** repete o título. Barra preta **sólida** em cima. Sem inglês residual do gerador.
 
 Título: briga + detalhe. ≤ 60 caracteres. Primeiras 150 da descrição = o problema, não “neste vídeo”. Tags 7–10. Não é conteúdo para crianças. Vinheta = crédito da trilha.
 

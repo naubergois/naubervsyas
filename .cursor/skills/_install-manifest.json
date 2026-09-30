@@ -1,0 +1,705 @@
+{
+  "count": 140,
+  "skills": [
+    {
+      "name": "nova-youtube-agent",
+      "source": "nova",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/nova-youtube-agent"
+    },
+    {
+      "name": "attract-signal",
+      "source": "attract",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/attract-signal-skill/skills/media/attract-signal"
+    },
+    {
+      "name": "youtube-growth-diagnosis",
+      "source": "ytgrowth",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-growth-skills"
+    },
+    {
+      "name": "youtube-marketing",
+      "source": "ytmkt",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-marketing-skills/skills/youtube-marketing"
+    },
+    {
+      "name": "claude-youtube",
+      "source": "claudeyt",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/claude-youtube/skills/claude-youtube"
+    },
+    {
+      "name": "youtube-skills-pack",
+      "source": "serge",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-skills"
+    },
+    {
+      "name": "yt-content-planner",
+      "source": "serge",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-skills/skills/yt-content-planner"
+    },
+    {
+      "name": "yt-community-post-writer",
+      "source": "serge",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-skills/skills/yt-community-post-writer"
+    },
+    {
+      "name": "yt-channel-optimizer",
+      "source": "serge",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-skills/skills/yt-channel-optimizer"
+    },
+    {
+      "name": "yt-repurposer",
+      "source": "serge",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-skills/skills/yt-repurposer"
+    },
+    {
+      "name": "yt-description-writer",
+      "source": "serge",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-skills/skills/yt-description-writer"
+    },
+    {
+      "name": "yt-audience-insights",
+      "source": "serge",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-skills/skills/yt-audience-insights"
+    },
+    {
+      "name": "yt-title-optimizer",
+      "source": "serge",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-skills/skills/yt-title-optimizer"
+    },
+    {
+      "name": "yt-hook-scripter",
+      "source": "serge",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-skills/skills/yt-hook-scripter"
+    },
+    {
+      "name": "yt-thumbnail-brief",
+      "source": "serge",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/youtube-skills/skills/yt-thumbnail-brief"
+    },
+    {
+      "name": "ai-image-editing",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/ai-image-editing"
+    },
+    {
+      "name": "ai-music-and-sound",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/ai-music-and-sound"
+    },
+    {
+      "name": "ai-search-optimization",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/ai-search-optimization"
+    },
+    {
+      "name": "ai-video",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/ai-video"
+    },
+    {
+      "name": "ai-voiceover",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/ai-voiceover"
+    },
+    {
+      "name": "analytics-and-reporting",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/analytics-and-reporting"
+    },
+    {
+      "name": "audience-research",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/audience-research"
+    },
+    {
+      "name": "batch-content-plan",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/batch-content-plan"
+    },
+    {
+      "name": "before-after-and-transformation",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/before-after-and-transformation"
+    },
+    {
+      "name": "behind-the-scenes-and-founder",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/behind-the-scenes-and-founder"
+    },
+    {
+      "name": "brand-profile",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/brand-profile"
+    },
+    {
+      "name": "campaign-and-launch-planning",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/campaign-and-launch-planning"
+    },
+    {
+      "name": "canva",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/canva"
+    },
+    {
+      "name": "capcut",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/capcut"
+    },
+    {
+      "name": "caption-writer",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/caption-writer"
+    },
+    {
+      "name": "captions-and-clipping",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/captions-and-clipping"
+    },
+    {
+      "name": "carousel-writer",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/carousel-writer"
+    },
+    {
+      "name": "collabs-and-cross-promotion",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/collabs-and-cross-promotion"
+    },
+    {
+      "name": "community-management",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/community-management"
+    },
+    {
+      "name": "competitor-analysis",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/competitor-analysis"
+    },
+    {
+      "name": "content-audit",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/content-audit"
+    },
+    {
+      "name": "content-calendar",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/content-calendar"
+    },
+    {
+      "name": "content-pillars",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/content-pillars"
+    },
+    {
+      "name": "content-recycling",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/content-recycling"
+    },
+    {
+      "name": "content-research-and-sourcing",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/content-research-and-sourcing"
+    },
+    {
+      "name": "contrarian-and-opinion",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/contrarian-and-opinion"
+    },
+    {
+      "name": "creator-monetization",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/creator-monetization"
+    },
+    {
+      "name": "crisis-and-moderation",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/crisis-and-moderation"
+    },
+    {
+      "name": "cross-platform-repurposing",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/cross-platform-repurposing"
+    },
+    {
+      "name": "data-and-original-research",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/data-and-original-research"
+    },
+    {
+      "name": "descript",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/descript"
+    },
+    {
+      "name": "design-and-templates",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/design-and-templates"
+    },
+    {
+      "name": "educational-content-and-how-to",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/educational-content-and-how-to"
+    },
+    {
+      "name": "email-and-newsletter",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/email-and-newsletter"
+    },
+    {
+      "name": "engagement-routine",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/engagement-routine"
+    },
+    {
+      "name": "experimentation-and-ab-testing",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/experimentation-and-ab-testing"
+    },
+    {
+      "name": "facebook-groups",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/facebook-groups"
+    },
+    {
+      "name": "facebook-strategy",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/facebook-strategy"
+    },
+    {
+      "name": "flux",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/flux"
+    },
+    {
+      "name": "goals-and-kpis",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/goals-and-kpis"
+    },
+    {
+      "name": "hashtag-strategy",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/hashtag-strategy"
+    },
+    {
+      "name": "heygen",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/heygen"
+    },
+    {
+      "name": "sms-hook-writer",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/hook-writer"
+    },
+    {
+      "name": "idea-generation-and-ideation",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/idea-generation-and-ideation"
+    },
+    {
+      "name": "ideogram",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/ideogram"
+    },
+    {
+      "name": "image-prompt",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/image-prompt"
+    },
+    {
+      "name": "infographic-and-data-viz",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/infographic-and-data-viz"
+    },
+    {
+      "name": "instagram-growth",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/instagram-growth"
+    },
+    {
+      "name": "instagram-reels-publishing",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/instagram-reels-publishing"
+    },
+    {
+      "name": "instagram-seo",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/instagram-seo"
+    },
+    {
+      "name": "interactive-content",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/interactive-content"
+    },
+    {
+      "name": "kling",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/kling"
+    },
+    {
+      "name": "lead-magnets-and-funnels",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/lead-magnets-and-funnels"
+    },
+    {
+      "name": "link-in-bio-and-traffic",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/link-in-bio-and-traffic"
+    },
+    {
+      "name": "linkedin-company-pages",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/linkedin-company-pages"
+    },
+    {
+      "name": "linkedin-growth",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/linkedin-growth"
+    },
+    {
+      "name": "linkedin-post-writer",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/linkedin-post-writer"
+    },
+    {
+      "name": "listicle-and-roundup",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/listicle-and-roundup"
+    },
+    {
+      "name": "livestream-and-realtime",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/livestream-and-realtime"
+    },
+    {
+      "name": "luma",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/luma"
+    },
+    {
+      "name": "meme-and-culture",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/meme-and-culture"
+    },
+    {
+      "name": "nano-banana",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/nano-banana"
+    },
+    {
+      "name": "opus-clip",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/opus-clip"
+    },
+    {
+      "name": "pinterest-growth",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/pinterest-growth"
+    },
+    {
+      "name": "pinterest-pin-design",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/pinterest-pin-design"
+    },
+    {
+      "name": "pinterest-seo",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/pinterest-seo"
+    },
+    {
+      "name": "platform-specs-and-validation",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/platform-specs-and-validation"
+    },
+    {
+      "name": "podcast-and-audiograms",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/podcast-and-audiograms"
+    },
+    {
+      "name": "profile-optimization",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/profile-optimization"
+    },
+    {
+      "name": "quote-cards-and-text-graphics",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/quote-cards-and-text-graphics"
+    },
+    {
+      "name": "reddit-marketing",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/reddit-marketing"
+    },
+    {
+      "name": "reels-script",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/reels-script"
+    },
+    {
+      "name": "reply-and-comment-writer",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/reply-and-comment-writer"
+    },
+    {
+      "name": "runway",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/runway"
+    },
+    {
+      "name": "scheduling-and-queue",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/scheduling-and-queue"
+    },
+    {
+      "name": "scripting-and-storyboarding",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/scripting-and-storyboarding"
+    },
+    {
+      "name": "seasonal-and-moment-marketing",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/seasonal-and-moment-marketing"
+    },
+    {
+      "name": "short-form-video-script",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/short-form-video-script"
+    },
+    {
+      "name": "social-proof-and-testimonials",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/social-proof-and-testimonials"
+    },
+    {
+      "name": "social-selling-and-dm",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/social-selling-and-dm"
+    },
+    {
+      "name": "social-seo",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/social-seo"
+    },
+    {
+      "name": "social-strategy",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/social-strategy"
+    },
+    {
+      "name": "story-writer",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/story-writer"
+    },
+    {
+      "name": "storytelling-and-narrative",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/storytelling-and-narrative"
+    },
+    {
+      "name": "suno",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/suno"
+    },
+    {
+      "name": "synthesia",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/synthesia"
+    },
+    {
+      "name": "talking-head-and-piece-to-camera",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/talking-head-and-piece-to-camera"
+    },
+    {
+      "name": "text-post-and-microblog",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/text-post-and-microblog"
+    },
+    {
+      "name": "thread-writer",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/thread-writer"
+    },
+    {
+      "name": "threads-growth",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/threads-growth"
+    },
+    {
+      "name": "threads-post",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/threads-post"
+    },
+    {
+      "name": "thumbnail-design",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/thumbnail-design"
+    },
+    {
+      "name": "tiktok-growth",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/tiktok-growth"
+    },
+    {
+      "name": "tiktok-photo-mode",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/tiktok-photo-mode"
+    },
+    {
+      "name": "tiktok-script",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/tiktok-script"
+    },
+    {
+      "name": "tiktok-video-publishing",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/tiktok-video-publishing"
+    },
+    {
+      "name": "trend-jacking",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/trend-jacking"
+    },
+    {
+      "name": "ugc-and-influencer",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/ugc-and-influencer"
+    },
+    {
+      "name": "veo-3",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/veo-3"
+    },
+    {
+      "name": "viral-reverse-engineering",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/viral-reverse-engineering"
+    },
+    {
+      "name": "voice-builder",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/voice-builder"
+    },
+    {
+      "name": "writing-style-and-tone",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/writing-style-and-tone"
+    },
+    {
+      "name": "x-growth",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/x-growth"
+    },
+    {
+      "name": "youtube-long-form",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/youtube-long-form"
+    },
+    {
+      "name": "youtube-publishing-and-metadata",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/youtube-publishing-and-metadata"
+    },
+    {
+      "name": "youtube-shorts",
+      "source": "sms",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/social-media-skills/skills/youtube-shorts"
+    },
+    {
+      "name": "competitor-spy",
+      "source": "aff",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/affiliate-skills/skills/research/competitor-spy"
+    },
+    {
+      "name": "content-angle-ranker",
+      "source": "aff",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/affiliate-skills/skills/research/content-angle-ranker"
+    },
+    {
+      "name": "purple-cow-audit",
+      "source": "aff",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/affiliate-skills/skills/research/purple-cow-audit"
+    },
+    {
+      "name": "traffic-analyzer",
+      "source": "aff",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/affiliate-skills/skills/research/traffic-analyzer"
+    },
+    {
+      "name": "niche-opportunity-finder",
+      "source": "aff",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/affiliate-skills/skills/research/niche-opportunity-finder"
+    },
+    {
+      "name": "trending-content-scout",
+      "source": "aff",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/affiliate-skills/skills/research/trending-content-scout"
+    },
+    {
+      "name": "viral-post-writer",
+      "source": "aff",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/affiliate-skills/skills/content/viral-post-writer"
+    },
+    {
+      "name": "content-pillar-atomizer",
+      "source": "aff",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/affiliate-skills/skills/content/content-pillar-atomizer"
+    },
+    {
+      "name": "tiktok-script-writer",
+      "source": "aff",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/affiliate-skills/skills/content/tiktok-script-writer"
+    },
+    {
+      "name": "anthropic-content-creation",
+      "source": "anth",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/knowledge-work-plugins/marketing/skills/content-creation"
+    },
+    {
+      "name": "anthropic-draft-content",
+      "source": "anth",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/knowledge-work-plugins/marketing/skills/draft-content"
+    },
+    {
+      "name": "anthropic-seo-audit",
+      "source": "anth",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/knowledge-work-plugins/marketing/skills/seo-audit"
+    },
+    {
+      "name": "anthropic-performance-report",
+      "source": "anth",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/knowledge-work-plugins/marketing/skills/performance-report"
+    },
+    {
+      "name": "anthropic-brand-review",
+      "source": "anth",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/knowledge-work-plugins/marketing/skills/brand-review"
+    },
+    {
+      "name": "anthropic-competitive-brief",
+      "source": "anth",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/knowledge-work-plugins/marketing/skills/competitive-brief"
+    },
+    {
+      "name": "anthropic-campaign-plan",
+      "source": "anth",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/knowledge-work-plugins/marketing/skills/campaign-plan"
+    },
+    {
+      "name": "anthropic-email-sequence",
+      "source": "anth",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/knowledge-work-plugins/marketing/skills/email-sequence"
+    },
+    {
+      "name": "youtube-titles-thumbnails",
+      "source": "cc",
+      "from": "/Users/naubergois/canalnauber/.tmp-skills-staging/cc-skills/.claude/skills/youtube-titles-thumbnails"
+    },
+    {
+      "name": "canal-decisao-seo",
+      "source": "canal",
+      "from": "/Users/naubergois/canalnauber/.cursor/skills/canal-decisao-seo"
+    }
+  ]
+}

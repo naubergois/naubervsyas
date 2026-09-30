@@ -2,21 +2,53 @@ Título
 Homem vs robô? A luta era teleoperada
 
 Publicado
-https://youtu.be/lXEw7YeScow
-https://www.youtube.com/watch?v=lXEw7YeScow
+https://youtu.be/abwWL-Iv7Vw
+https://www.youtube.com/watch?v=abwWL-Iv7Vw
+
+(versão anterior REK parcial, deslistar): https://youtu.be/tBKdyXqxKVc
+(versão A1 boxing B-roll, deslistar): https://youtu.be/XNCC-TroJLs
+(versão ainda mais antiga): https://youtu.be/lXEw7YeScow
+
+Arquivo master (abertura capa + REK + Unitree alinhados ao texto)
+producao/ep2-voz/final/ep2-long-rek.mp4
+(= ep2-long-abertura-capa.mp4)
+Script overlay: producao/ep2-voz/rebuild_rek_overlay.py
+Script abertura: producao/ep2-voz/rebuild_abertura_capa.py
+Nota: producao/ep2-voz/final/UPLOAD-EVENTOS.md
+
+B-roll verídico (SRT → TIMELINE)
+- 22–55s / 78–147s: REK Frankie × EngineAI T800 (SF 18 Set 2026)
+- 147–175s: Unitree G1 UnifoLM autônomo (demo oficial)
 
 Capa
 producao/ep2-voz/final/thumb.jpg
 Texto na capa: TINHA PILOTO
 
-Descrição
-A luta no Instagram não era Terminator. O robô tinha piloto.
+Descrição (colar: producao/studio-cama/DESCRICAO-ep2.txt)
+A luta homem vs robô tinha piloto. Não era Terminator. Tinha gente no controle.
 
-Depois a Yas explica o que é um Transformer, se ela é consciente, religião, a foto do Moraes e o que a imprensa escolhe mostrar.
+O que circulou no Instagram era marketing de primeira luta humano versus máquina. Frankie LaPenna e o T800. Do outro lado, um humano no controle. A Unitree mostrou um G1 lutando sozinho. São duas histórias.
 
-Coragem não é ter todas as respostas. É sustentar boas perguntas.
+Depois a Yas explica o que é um Transformer, se ela é consciente, religião, a foto do Moraes e o que a imprensa escolhe mostrar. Coragem não é ter todas as respostas. É sustentar boas perguntas.
 
-Inscreva-se: https://www.youtube.com/@naubervsyas
+O papo inteiro está aqui. Inscreva-se se quiser o corte aberto, não o pacote:
+https://www.youtube.com/@naubervsyas
+
+CAPÍTULOS
+0:00 A luta tinha piloto
+0:20 Frankie, o T800 e o controle
+2:24 Unitree sem humano
+2:52 O que é um Transformer
+4:07 Ela diz que não é consciente
+8:17 Religião e o criador
+11:47 A foto e a imprensa
+22:22 A luta final
+
+CORTES
+A luta tinha piloto: https://youtube.com/shorts/-fwmuCfxICM
+Não era Terminator: https://youtube.com/shorts/GH0iaMuVCGM
+Consciência: https://youtube.com/shorts/AqFu2htdodQ
+Coragem: https://youtube.com/shorts/4sHJze_k9ZQ
 
 Music: Ready Aim Fire by Kevin MacLeod
 Link: https://incompetech.filmmusic.io/song/4036-ready-aim-fire
@@ -29,6 +61,11 @@ Short
 https://youtube.com/shorts/-fwmuCfxICM
 Título: A luta homem vs robo tinha piloto
 Arquivo: producao/ep2-voz/final/corte-luta-9x16.mp4
+
+Short (motion thumb)
+https://youtube.com/shorts/GH0iaMuVCGM
+Título: Nao era Terminator. Tinha piloto
+Arquivo: producao/ep2-voz/final/motion-thumb-piloto-9x16.mp4
 
 Comentário fixo (no long)
 A luta tinha piloto. A consciência ficou em aberto. Qual parte você compra sem olhar?

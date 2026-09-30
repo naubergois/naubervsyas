@@ -1,6 +1,11 @@
-B-roll mudo (domínio público / CC), sobre a voz original do papo.
+B-roll mudo (domínio público / CC / fair use noticioso), sobre a voz original do papo.
 
-- U.S. Air Force — treino de boxe “Rumble in the Deid” (domínio público)
+- REK / Frankie LaPenna vs EngineAI T800 (SF, 18 Set 2026): trechos do clipe viral no Instagram,
+  reenviados por canais de notícia no YouTube. Uso editorial / fair use para comentar o fato
+  (teleoperação). Sem trilha do original — só imagem, mudo.
+- Unitree Robotics — demo oficial UnifoLM-X2-1.0 / G1 luta autônoma (YouTube Unitree, set 2026).
+  Uso editorial para distinguir o segundo vídeo citado no papo. Sem áudio do original.
+- U.S. Air Force — treino de boxe “Rumble in the Deid” (domínio público; não usado neste cut)
 - Robotics Creators Bolivia — robô humanoide (CC)
 - Starship Technologies, Tallinn — robô de entrega (CC)
 - Museu da Comunicação, Berlim — robô em exposição (CC)

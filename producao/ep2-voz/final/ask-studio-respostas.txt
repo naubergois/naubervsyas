@@ -1,0 +1,66 @@
+# Ask Studio — compile (24–25/set/2026)
+
+Long de referência: abwWL-Iv7Vw. Prompts 1 e 2 em 24/set. Prompt 7 em 25/set, chat limpo. Sem conselho.
+
+## (1) Traffic sources — long-form vs. Shorts
+
+Últimos 28 dias. Percentual de views por origem, na lista que o Studio aceitou.
+
+Long-form
+- Browse features: 28.89%
+- Suggested videos: 0.00%
+- YouTube search: 15.56%
+- External: 0.00%
+- Channel pages: 26.67%
+- Playlists: 0.00%
+- Notifications: 0.00%
+
+Shorts
+- Browse features: 0.00%
+- Suggested videos: 0.00%
+- YouTube search: 4.36%
+- External: 0.00%
+- Channel pages: 0.75%
+- Playlists: 0.00%
+- Notifications: 0.30%
+
+A soma não fecha 100%. O feed dos Shorts não entra nessa lista.
+
+## (2) Retention curves
+
+abwWL-Iv7Vw — curva granular ainda sem dados (24/set).
+
+- Views: 3
+- Duração média: 5 s
+- Percentual médio assistido: 0.38%
+- 0:30 / 1:00 / 5:00: sem número (abaixo do limiar)
+
+Painel 25/set, desde a publicação: 3 visualizações, 0,0 h, inscritos —.
+
+## (3) Breakout video breakdown
+
+no data
+
+## (4) Shorts — edited vs. auto-clipped
+
+no data
+
+## (5) New vs. returning viewers
+
+no data
+
+## (6) Impressions & CTR trend
+
+no data neste chat. CTR de 16% no Studio de 22/set é do long antigo.
+
+Na página do canal (28 dias, desde 20/set):
+- Longs: 28 views / 68 impressões — CTR 19.12%
+- Canal inteiro: 33 views / 76 impressões — CTR 21.05%
+
+## (7) Shorts → long-form bridge
+
+Desde 20/set:
+
+- Views diretas Short → long (Related Shorts / link do Short): **0**
+- Studio não isola CTR do player de Shorts para o canal
+- Quem chega na página do canal e clica no long: CTR 19.12%

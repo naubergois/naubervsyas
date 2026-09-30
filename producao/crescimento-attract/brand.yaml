@@ -1,0 +1,27 @@
+brand_name: Nauber vs Yas
+business_type: creator
+brand_url: https://www.youtube.com/@naubervsyas
+industry: debate política economia tecnologia Brasil
+audience: quem discute política, economia e tecnologia no Brasil e desconfia do pacote fechado
+offer: inscrição no long no YouTube
+tone: direto, oral, pt-BR
+proof_points:
+  - dois lados na mesma mesa sem mediador
+  - cortes que abrem no meio da briga, não na vinheta
+  - episódios longos com tese visível na capa
+primary_path: sub
+channel_style: face_led
+product_mode: ""
+product_name: ""
+product_url: ""
+discount_code: ""
+constraints:
+  - sem vinheta de 5s no gancho do short
+  - máximo quatro portas por episódio
+  - não pedir curte segue comenta no gancho
+filming_resources:
+  - Nauber e Yas em dois lugares
+  - texto na tela 9:16
+forbidden_claims:
+  - garantir viralização
+  - misturar com Canal da Ciência

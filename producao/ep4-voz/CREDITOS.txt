@@ -1,0 +1,17 @@
+B-roll mudo (editorial / CC / domínio público), sobre a voz original do papo.
+
+Mapa fala → imagem (tempos do bruto, audio/full.srt):
+
+- Missão para auditores de controle interno: sessão oficial TCU (sede e galeria), canal Tribunal de Contas da União.
+- Livros / internet / treinamento: sala de leitura da Library of Congress (Wikimedia).
+- Miguel Nicolelis: entrevista Terra sobre impacto da IA (mesmo clipe do ep. 3).
+- AlphaGo lance 37 (2016): Lee Sedol vs AlphaGo, Google DeepMind Challenge Match.
+- Pintor / pincel: Renoir pintando em casa (filme 1915, domínio público).
+- Dilema do bonde: diagrama clássico (Wikimedia, McGeddon / Trolley problem.png).
+- Reprodutibilidade / consciência: SPECT cerebral (artigo em acesso aberto).
+- Sociedade / Ocidente–Oriente: still de imprensa (Wikimedia, ep. 2).
+
+Vinheta: producao/abertura/final/vinheta-5s.mp4 — Ready Aim Fire, Kevin MacLeod.
+Áudio: captura Filmora 320k (média −31 dB). highpass 80 Hz + compressor leve + loudnorm −16 LUFS, AAC 256k/48k.
+Sem trilha por cima da fala. Sem áudio do B-roll.
+Fonte: VID_20260923_223419.mp4 (24 min 46 s de áudio; o vídeo cru tinha 26 min 37 s).

@@ -23,12 +23,12 @@ Não garante view. Garante que o pacote não compete consigo mesmo.
 |---|---|---|
 | Ícone | `arte/icone-800.png` | foto de perfil (800×800) |
 | Perfil | `arte/perfil-1080.png` | avatar 1:1 sem canto de app |
-| Banner | `arte/banner-2560x1440.png` | capa do canal |
+| Banner | `arte/banner-2560x1440.png` | capa do canal — platéia sci-fi, miolo 1546×423 seguro |
 | Marca d’água | `arte/marca-dagua-150.png` | canto do vídeo |
 | Wordmark | `arte/wordmark.png` | vinheta / end screen |
 | Thumbnail-modelo | `arte/thumb-modelo-dois-lados.png` | troca o texto a cada episódio |
 
-**Nauber** — cara travada do mascote: óculos retangular grosso, jaleco, camiseta preta, águia simples. Charge, não foto. Sempre o lado esquerdo / amarelo.
+**Nauber** — charge do Nauber: um pouco mais cheio, óculos retangular grosso, jaleco, camiseta preta do AC/DC. Sem águia. Sem foto. Sempre o lado esquerdo / amarelo.
 
 **Yas** — robô de metal, crânio cromado, olho vermelho. Charge do mesmo traço. Sempre o lado direito / aço. Sem logo de filme.
 

@@ -1,0 +1,27 @@
+---
+description: Toda capa do canal é peça nova — layout, metáfora e texto próprios. Proíbe repetir o modelo dois lados.
+alwaysApply: true
+---
+
+# Capas criativas
+
+Cada vídeo ganha uma capa inventada para **aquele** papo. O modelo `arte/thumb-modelo-dois-lados.png` é paleta (amarelo `#FFE14A`, aço, creme `#F7F1E3`), não layout.
+
+## Obrigatório
+
+- 1280×720 JPG < 2 MB. Charge / ilustração. Sem foto. Sem rosto gerado por IA.
+- Texto ≤ 5 palavras, creme, barra preta **sólida** no topo. Fonte Arial Rounded Bold. Não repete o título.
+- Três conceitos com arquétipos **diferentes**. Um vira oficial. Se subir 16:9 e Short, capas distintas.
+- A metáfora vem da fala (paper vs remédio, perfume vs processo). Sem stock genérico.
+
+## Proibido
+
+- Recolorir o split Nauber/Yas e só trocar a palavra (JÁ CONTRATA, TINHA PILOTO).
+- A mesma composição em dois vídeos seguidos.
+- Inglês residual do gerador (THESISIS, WORKLESS). Tapa antes de entregar.
+- Cena de aula, logo do canal no meio, Canal da Ciência.
+
+```
+# ruim — dois lados + raio ciano + uma palavra nova
+# bom — ep. 3 ciência: pilha de paper vs ampola; perfume tombado; página rasgada
+```

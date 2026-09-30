@@ -19,11 +19,10 @@ TRIM = 0.80  # corta o preto inicial, como no ep. 1
 # Assuntos na fala (tempo no bruto). B-roll sem som.
 TIMELINE = [
     (0, 22, None),  # oi + não fala de eleição — deixa a mesa
-    (22, 55, "boxing-spar"),  # luta (sparring)
-    (55, 95, "humanoide"),
-    (95, 125, "boxing-spar"),
-    (125, 155, "kb-vr"),  # teleoperação / VR
-    (155, 175, "delivery-robot"),  # dois vídeos circulando
+    (22, 55, "rek-t800-fight"),  # luta no IG → Frankie × EngineAI T800 (REK SF 18 Set 2026)
+    (55, 78, "humanoide"),  # silêncio / Yas olhando
+    (78, 147, "rek-t800-fight"),  # Frankie LaPenna, T800, teleop, specs, marketing Terminator
+    (147, 175, "unitree-g1-fight"),  # Unitree G1 UnifoLM autônomo (demo oficial)
     (175, 215, "robot-arm"),  # Transformer = arquitetura
     (215, 250, "package-robot"),
     (250, 300, "brain-spect"),  # consciência

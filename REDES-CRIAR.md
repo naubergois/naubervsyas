@@ -51,15 +51,12 @@ Primeiro corte: [o rótulo vira camisa de time](https://www.tiktok.com/@naubervs
 
 Legenda e primeiro comentário já no ar (apontam `youtu.be/M9METL2AEOQ`).
 
-O que falta no celular (o site não grava):
+Já no web (25/set, `@naubervsyas`): apelido `Nauber vs Yas` (próxima troca 28/set) e handle (próxima 21/out). Bio oficial no ar, sem o acento do “Só”.
 
-1. Apelido: `Nauber vs Yas` — o web travou até 28/set.
-2. Foto: `arte/perfil-1080.png` — o site abre captcha.
-3. Bio (80):
+O que o site não grava (tentativa 25/set: toast “atualizado”, depois reverte / “Algo deu errado”):
 
-```
-Dois lugares na mesa. Sem mediador. Só o corte.
-```
+1. Foto: `arte/perfil-1080.png`
+2. Bio com o YouTube no fim (`youtube.com/@naubervsyas`)
 
 Não usar `@nauberbg` nem `@naubergois`. Sem TikTok Shop no começo.
 

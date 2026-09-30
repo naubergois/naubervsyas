@@ -1,0 +1,14 @@
+---
+description: Loop de decisão de canal, SEO e divulgação para agentes
+alwaysApply: true
+---
+
+# Decisão de canal, SEO, divulgação
+
+Pedido de crescimento, SEO, republicação, calendário, perfil, hashtag, GEO ou "qual rede" passa pela skill `.cursor/skills/canal-decisao-seo/` e grava em `producao/canal-loop/`.
+
+YouTube é a casa. O resto é porta. Handle `@naubervsyas`. Sem Canal da Ciência. Sem volume de keyword inventado. Sem publicar sem o usuário pedir.
+
+Não grava episódio para encher calendário. Não mistura vinheta no lugar do papo.
+
+Validar: `python3 producao/canal-loop/validar.py`

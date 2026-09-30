@@ -7,27 +7,22 @@
   [
     22,
     55,
-    "boxing-spar"
+    "rek-t800-fight"
   ],
   [
     55,
-    95,
+    78,
     "humanoide"
   ],
   [
-    95,
-    125,
-    "boxing-spar"
+    78,
+    147,
+    "rek-t800-fight"
   ],
   [
-    125,
-    155,
-    "kb-vr"
-  ],
-  [
-    155,
+    147,
     175,
-    "delivery-robot"
+    "unitree-g1-fight"
   ],
   [
     175,

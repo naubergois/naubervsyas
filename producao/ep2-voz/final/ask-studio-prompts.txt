@@ -1,0 +1,30 @@
+# Ask Studio — cole um por vez (web Studio → Pergunte ao Studio)
+
+Long de referência: https://studio.youtube.com/video/abwWL-Iv7Vw/analytics
+Anexe com + / Add onde pedir [add a video]: abwWL-Iv7Vw
+
+## 1. Discovery engine
+
+```
+For my long-form videos only (exclude Shorts), over the last 28 days, what percentage of views came from each traffic source: Browse features, Suggested videos, YouTube search, External, Channel pages, Playlists, and Notifications? Then give the exact same breakdown for my Shorts only. List each as "source: percentage" and keep the two lists clearly separate.
+```
+
+## 2. Retention cliff
+
+```
+For [add a video: abwWL-Iv7Vw], what percentage of viewers are still watching at 0:30, at 1:00, and at 5:00? Is there a sharp drop in the first 30–40 seconds? Describe the overall shape of the audience retention curve.
+```
+
+## 7. Shorts → long-form bridge
+
+```
+How many viewers arrived at my long-form videos or my channel page from my Shorts? What is the click-through rate from my Shorts to other content on the channel? Use the last 28 days.
+```
+
+## 8. Compile
+
+```
+Compile everything you've reported in this conversation into one structured summary I can copy elsewhere. Organize it under these headers: (1) Traffic sources — long-form vs. Shorts; (2) Retention curves; (3) Breakout video breakdown; (4) Shorts — edited vs. auto-clipped; (5) New vs. returning viewers; (6) Impressions & CTR trend; (7) Shorts → long-form bridge. Use plain numbers and short bullet points. Do not add advice or interpretation — data only.
+```
+
+Cole o bloco do prompt 8 de volta no chat do Cursor.

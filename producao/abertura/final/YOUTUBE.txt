@@ -1,0 +1,15 @@
+Título
+A mesma voz. Palco e futuro.
+
+Publicado (não listado — trailer do canal)
+https://youtu.be/6RlKDb5lxWg
+https://www.youtube.com/watch?v=6RlKDb5lxWg
+Studio: https://studio.youtube.com/video/6RlKDb5lxWg/edit
+
+Arquivo
+producao/abertura/final/abertura-canal-90s.mp4
+Capa: producao/abertura/final/thumb-a-mesma-voz.jpg
+
+Ainda falta no Studio
+Personalização → Guia "Início" → Trailer do canal para não inscritos → Adicionar → este vídeo.
+O slot estava escondido (display:none) na sessão de 24/set.

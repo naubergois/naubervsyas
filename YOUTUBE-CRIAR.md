@@ -7,7 +7,7 @@ O YouTube não deixa criar canal por API. Precisa do login na conta que já tem 
 3. Nome do canal: `Nauber vs Yas`
 4. Handle: `naubervsyas` (estava livre em 20/set/2026)
 5. Foto: `arte/icone-800.png`
-6. Banner: `arte/banner-2560x1440.png`
+6. Banner: `arte/banner-2560x1440.jpg` (platéia sci-fi; PNG do mesmo quadro se passar de 6 MB)
 7. Descrição: o bloco “Sobre” de `MARCA.md`
 
 Se estiver logado no navegador do Cursor, avisa — o restante eu termino: nome, handle, foto e capa.

@@ -1,0 +1,20 @@
+# Personal config, users create this during onboarding, never commit it
+config.md
+
+# Memory files contain personal data, never commit
+memory/*.md
+!memory/.gitkeep
+
+# Local deliverables
+outputs/
+deliverables/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+*.env
+.env*
+
+memory/posted-videos.md

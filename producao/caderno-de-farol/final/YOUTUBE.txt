@@ -1,0 +1,68 @@
+Canal
+@naubervsyas  ·  UCAuts0wWOYpi8ZaRrkfeqhQ
+(piloto de ficção; não misturar com Canal da Ciência)
+
+Arquivo master
+producao/caderno-de-farol/final/caderno-de-farol-ep1.mp4
+88 s · 1920×1080 · H.264 · AAC
+Voz: ElevenLabs Pri (pt-BR)
+
+Short
+producao/caderno-de-farol/final/caderno-de-farol-ep1-short.mp4
+24 s · 1080×1920
+Título do Short: A data na página era amanhã
+Capa do Short (distinta): thumb-c-tinta-viva.jpg
+
+Capa oficial (16:9)
+producao/caderno-de-farol/final/thumb.jpg
+Texto na capa: NÃO CARIMBA
+Alts: thumb-b-sem-sombra.jpg (SEM SOMBRA) · thumb-c-tinta-viva.jpg (TINTA VIVA)
+
+Legendas
+producao/caderno-de-farol/final/legendas.srt
+(subir no Studio; o master não queima a legenda)
+
+Título (lead, Y1, 47)
+A página tinha a letra dela. A data era amanhã
+
+A/B
+Ela quebrou a única regra do farol (Y4, 35)
+De noite ela carimba. De manhã some a sombra (Y5, 46)
+
+Capa e título não se repetem: título leva página/letra/amanhã; capa leva NÃO CARIMBA.
+
+Descrição
+A letra era dela. A data era amanhã. No farol de Mucuripe, Cora carimba o que o mar devolve e não pode ler.
+
+O regulamento cabe numa linha. Carimba. Guarda. Não lê. Uma noite chega uma folha ainda quente, com a letra dela e a data de amanhã.
+
+Piloto de ficção. Ilustração e locução geradas com IA. Isso ainda não é filme de estúdio: é o primeiro bloco da série Caderno de Farol.
+
+Inscreva-se: https://www.youtube.com/@naubervsyas
+
+0:00 A letra dela
+0:05 O farol
+0:15 A regra
+0:28 A página quente
+0:44 A cidade apaga
+0:50 Não carimba essa
+0:58 Sem sombra
+
+Music: Our Story Begins by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/5026-our-story-begins
+License: https://filmmusic.io/standard-license
+
+#CadernoDeFarol #anime #ficção
+
+Tags
+caderno de farol, anime brasileiro, farol mucuripe, ficção científica, cora, rascunho, nauber vs yas, piloto, ilustração ia
+
+Studio
+- Não é conteúdo para crianças
+- Conteúdo alterado (IA)
+- Público: não listado primeiro, olha 1 minuto, depois público
+- Capa: thumb.jpg
+- Legenda: legendas.srt
+- Comentário fixo: A última linha não era pergunta. Era ordem. Você carimbaria?
+
+Ainda não subi. O arquivo está pronto para o Studio.
